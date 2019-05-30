@@ -11,11 +11,11 @@ This is the PWA (Progressive Web App) for Judge score and feedback collection, e
 ## Screenshots
 
 <p align="center">
-  <img src="docs/img/signin.png" width="256" height="455">
+  <img src="docs/img/signin.png" width="256" >
   &nbsp
-  <img src="docs/img/judgemain.png" width="256" height="455">
+  <img src="docs/img/judgemain.png" width="256" >
   &nbsp
-  <img src="docs/img/teampreview.png" width="256" height="455">
+  <img src="docs/img/teampreview.png" width="256">
 </p>
 
 ## Demo
