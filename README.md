@@ -5,7 +5,7 @@
 
 # Inspark PWA
 
-This is the PWA (Progressive Web App) for Judge score and feedback collection, evaluation and leaderboarding for Inspark 2019, a project exhibition cum competition held in the IS Department of NMIT
+This is the PWA (Progressive Web App) for Judge scoring, feedback collection, evaluation and leaderboarding for Inspark 2019, a project exhibition cum competition held in the IS Department of NMIT. Created with ReactJS with Firebase as the store
 
 
 ## Screenshots
